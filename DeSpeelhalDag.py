@@ -1,5 +1,3 @@
-# de Speelhaldag
-
 aantalpersonen = 3
 prijsticket = 7.45
 prijsminuten = 0.370
